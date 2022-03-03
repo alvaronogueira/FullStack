@@ -1,0 +1,36 @@
+//                            SISTEMA DE CADASTRO DE EVENTOS                    // 
+
+// --- desenvolvimento de algoritmo para um sistema de cadastro de eventos --- //
+
+// ¨¨¨¨¨¨¨¨¨¨ CadastrarEvento ¨¨¨¨¨¨¨¨¨¨//
+console.log("Cadastro de Evento");
+
+let data > [22/02/2021]
+
+    if (data <= 22/02/2021){
+        console.log("Data Não Disponivel");
+    } else {
+        console.log("Data Disponível Para Evento!")    
+}
+
+// ¨¨¨¨¨¨¨ NúmeroDeParticipantes ¨¨¨¨¨¨¨¨//
+let quantidade = 101
+
+if (quantidade <= 100) {
+    console.log("Quantidade Permitida")
+} else {
+    console.log("Erro! Excesso De Participantes.")
+
+// ¨¨¨¨¨¨¨¨¨¨ ConfirmarIdade ¨¨¨¨¨¨¨¨¨¨//
+let idade >= [18]
+    if (idade >= 18){
+        console.log("Idade Permitida");  
+    } else {
+        console.log("Idade Inferior Ao Permitido");
+}        
+
+// ¨¨¨¨¨¨¨¨¨¨ PARTICIPANTE ¨¨¨¨¨¨¨¨¨¨//
+var listaDoPessoal = ["Antônio", "Marcos", "Maria", "Joseva", "Atenas", "Joaquim"; "Mariana", "Marina", "Moreno", "Morena", "Nicolas", "Laura", "Anna Julia", "Flavia", "Everton", "Lais", "Norma", "Dedé", "Carine", "Carol"];
+    console.log(listaDoPessoal)    
+}
+
